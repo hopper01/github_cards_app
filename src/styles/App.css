@@ -1,0 +1,17 @@
+
+.header {
+  background-color: #282c34;
+  height: 30px;
+  min-height: 20vh;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center; 
+  align-items: center;
+}
+.header h1{
+  font-size: calc(30px + 3vmin);
+  color: aliceblue;
+  text-align: justify;
+  text-justify: auto;
+ 
+}

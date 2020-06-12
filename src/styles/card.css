@@ -1,0 +1,106 @@
+/* Card */
+
+.github-profile{
+    display: flex;
+    flex-direction: row;
+    flex: 1 1 ;
+    margin-top: 2rem;
+    margin-left: 5rem;
+    box-sizing: border-box;
+    vertical-align: top;
+}
+.info{
+    display: block;
+    margin: 0.5rem;
+    max-height: 300px;
+}
+.name{
+    color: black;
+    margin-left: 0.5rem;
+    margin-top: -1.5rem;
+    margin-bottom: -1.5rem;
+ 
+    font-size: 27px;
+    font-weight: 700;
+    font-family: 'Comfortaa';
+}
+.location{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-top: -0.8rem;
+}
+.company{
+    color: brown;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 1rem;
+    margin-top: -0.8rem;
+    line-height: 29px;
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+p span{
+    margin-left: -1px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+}
+p{
+    color: rgb(218, 62, 158);
+    font-family: 'Comfortaa';
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 8px;
+    margin-left: 0.5rem;
+    font-weight: 400;
+}
+.num-info{
+    margin-top: 0;
+    display: flex;
+    flex: 1 1 1;
+    align-self: flex-end;
+}
+.num{
+    margin-left: 0.3rem;
+    font-weight: 400;
+    font-family: 'Balsamiq Sans';
+}
+.num #n{
+    color: brown;
+    font-weight: 600;
+}
+/* Card-list */
+.card-list{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    margin-left: -2rem;
+}
+/*link*/
+.link{
+    margin-left: 0.5rem;
+    margin-top: -12px;
+    font-weight: 600;
+    color: black;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+}
+.link a{
+    margin-left: 1rem;
+}
+.link i{
+    font-size: 25px;
+    color: black;
+}
+.link a:visited{
+    color: blue;
+}
+.link a i:hover{
+    color: #2EE59D;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    transform: translate(1px,3px);
+}
