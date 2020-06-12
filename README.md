@@ -15,7 +15,7 @@ Css
 `````
 
 ## Usage
-Type the valid **github interface** and click **get info** and there you have the *card*.
+Type the valid **github username** and click **get info** and there you have the `card`.
 
 ## Contribute
 There are a lot of improvements that can be done to this.
