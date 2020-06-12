@@ -17,8 +17,8 @@ Css
 ## Usage
 Type the valid **github username** and click **get info** and there you have the `card`.
 
-##View on Github Pages
-[here](https://hopper01.github.io/github_cards_app/)
+## View on Github Pages
+[Click here](https://hopper01.github.io/github_cards_app/)
 
 ## Contribute
 There are a lot of improvements that can be done to this.
