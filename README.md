@@ -21,7 +21,7 @@ Type the valid **github interface** and click **get info** and there you have th
 There are a lot of improvements that can be done to this.
 You can contribute in this project directly.
 
-# Pull Requests
+### Pull Requests
 Pull Requests are always welcome.
 
 1. When you edit the code, please run `npm run test` or `yarn test` to check the formatting of your code before you git commit.
